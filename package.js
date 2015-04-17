@@ -7,7 +7,7 @@ var where = 'client';
 Package.describe({
   name: packageName,
   version: '1.1.0',
-  summary: 'A lightweight JavaScript library for creating particles.',
+  summary: 'ParticlesJS(official) : Create interactive particles on canvas with simple API.',
   git: 'https://github.com/VincentGarreau/particles.js',
   documentation: 'README.md'
 });
