@@ -90,7 +90,14 @@ particlesJS('particles-js', {
 
 -------------------------------
 
+
+
 ##### ***Install with Bower***
 ```
 bower install particles.js --save
+```
+
+##### ***Install with Meteor***
+```
+meteor add newswim:particles
 ```
