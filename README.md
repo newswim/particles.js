@@ -1,3 +1,5 @@
+# Currently being updated to 2.0, not ready yet!
+
 ## particles.js
 
 ### A lightweight JavaScript library for creating particles.
