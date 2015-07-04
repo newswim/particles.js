@@ -8,7 +8,7 @@ Package.describe({
   name: packageName,
   version: '2.0.0',
   summary: 'Create & generate interactive particles.',
-  git: 'https://github.com/VincentGarreau/particles.js',
+  git: 'https://github.com/newswim/particles.js',
   documentation: 'README.md'
 });
 
